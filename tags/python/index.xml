@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on 三是的Blog</title>
+    <link>https://hele8.github.io/tags/python/</link>
+    <description>Recent content in python on 三是的Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hele8.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>爬取B站弹幕的小工具</title>
+      <link>https://hele8.github.io/post/%E5%81%9A%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%88%AC%E5%8F%96%E5%BC%B9%E5%B9%95%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hele8.github.io/post/%E5%81%9A%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%88%AC%E5%8F%96%E5%BC%B9%E5%B9%95%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7/</guid>
+      <description>做一个简单的爬取弹幕的小工具 网络爬虫的概念一直很火热
+一直没有尝试过
+这次通过自己简单的学习
+做个简单的爬虫小工具
+弹幕爬取 代码原理十分简单
+B站视频格式组成为
+https://m.bilibili.com/video/+BV
+通过输入B站的视频号</description>
+    </item>
+    
+  </channel>
+</rss>
